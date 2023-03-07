@@ -1,0 +1,27 @@
+.image {
+    position: relative;
+    width: 250px;
+}
+img {
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+}
+.topText {
+        position: absolute;
+        top: 20%;
+        left: 20%;
+        
+        font-size: 18px;
+        color: white;
+        font-family: 'Georgia';
+        font-weight: 500;      
+}
+.banner{
+    background-color: darkslategray;
+    text-shadow: rgb(2, 60, 26) 1px 1px;
+}
+
+html {
+    background-color: black;
+}
